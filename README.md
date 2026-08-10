@@ -45,7 +45,7 @@ Currently expanding into **backend and full-stack development** with Node.js, AP
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
 </p>
 
 ### Frontend
@@ -64,6 +64,15 @@ Currently expanding into **backend and full-stack development** with Node.js, AP
 - Component Architecture
 - REST API Integration
 - State Management
+
+### Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+- Microsoft Azure
+- Experience working with cloud-based application environments and services
 
 ### Testing
 
