@@ -1,10 +1,10 @@
 # Maheshwari Korra
 
-### Frontend Engineer | React • React Native • TypeScript
+### Full-Stack Developer | React • React Native • TypeScript • Node.js
 
-Building modern, scalable web and mobile applications with **React, React Native, TypeScript, and JavaScript**.
+Software Engineer building **web, mobile, and full-stack applications** using React, React Native, TypeScript, JavaScript, Node.js, REST APIs, and databases.
 
-Currently expanding into **backend and full-stack development** with Node.js, APIs, databases, and system design.
+My core strength is frontend and mobile engineering, with experience across **full-stack application development, API integration, cloud environments, testing, and application architecture**.
 
 <p align="left">
 
@@ -26,17 +26,16 @@ Currently expanding into **backend and full-stack development** with Node.js, AP
 
 ## About Me
 
-- Frontend Engineer focused on **React, React Native, TypeScript, and JavaScript**
-- Build modern web and mobile applications
-- Experience creating reusable and maintainable components
-- Experience integrating applications with REST APIs
-- Comfortable working with application state and asynchronous data flows
-- Experience with unit testing and component testing using Jest
-- Comfortable debugging application issues and regression defects
-- Experience working with Git and code review workflows
-- Interested in frontend architecture, performance, and application scalability
-- Currently learning backend development and full-stack architecture
-- Working toward becoming a strong **Full-Stack Software Engineer**
+- Full-Stack Developer with a strong focus on **Frontend & Mobile Engineering**
+- Build web applications using **React, TypeScript, and JavaScript**
+- Build cross-platform mobile applications using **React Native**
+- Build backend services and REST APIs using **Node.js & Express**
+- Work with databases and frontend-to-backend integrations
+- Experience working with **Microsoft Azure**
+- Experience with testing using **Jest**
+- **PCAP™ – Certified Associate Python Programmer**
+- Interested in application architecture, performance, scalability, and system design
+- Enjoy building products end-to-end — from user interface to backend services and data
 
 ---
 
@@ -45,25 +44,55 @@ Currently expanding into **backend and full-stack development** with Node.js, AP
 ### Languages
 
 <p>
-   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
 </p>
 
-### Frontend
+- JavaScript
+- TypeScript
+- Python
+- C
+- C++
+- HTML5
+- CSS3
+
+### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 - React
 - React Native
 - TypeScript
 - JavaScript
-- HTML5
-- CSS3
-- Responsive Web Development
 - Component Architecture
-- REST API Integration
 - State Management
+- Responsive Web Development
+- REST API Integration
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- REST API Development
+- Authentication & Authorization
+- API Integration
+- Backend Application Architecture
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL
+- Relational Databases
+- Database Integration
+- Data Modeling
 
 ### Cloud
 
@@ -72,7 +101,8 @@ Currently expanding into **backend and full-stack development** with Node.js, AP
 </p>
 
 - Microsoft Azure
-- Experience working with cloud-based application environments and services
+- Cloud-based Application Environments
+- Cloud Service Integration
 
 ### Testing
 
@@ -99,69 +129,60 @@ Currently expanding into **backend and full-stack development** with Node.js, AP
 
 ---
 
-## Currently Learning
+## Certifications
 
-I'm currently expanding my frontend experience into backend and full-stack development.
+### PCAP™ – Certified Associate Python Programmer
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-</p>
+**Python Institute**
 
-Currently learning:
+Knowledge validated across:
 
-- Node.js
-- Express.js
-- REST API Development
-- Backend Development
-- SQL
-- Databases
-- Authentication & Authorization
-- Backend Architecture
-- System Design
-- Full-Stack Application Architecture
+- Python Programming
+- Object-Oriented Programming
+- Classes & Objects
+- Exceptions
+- Modules & Packages
+- Python Standard Library
 
 ---
 
-## Professional Focus
-
-My current engineering focus includes:
+## Engineering Focus
 
 ```text
-Frontend Development
-├── React
-├── TypeScript
-├── JavaScript
-├── Component Architecture
-├── State Management
-├── API Integration
-├── Responsive Design
-├── Accessibility
-└── Performance
-
-Mobile Development
-├── React Native
-├── Cross-Platform Development
-├── Mobile UI
-├── API Integration
-├── Application State
-└── Mobile Debugging
-
-Engineering
-├── Jest
-├── Unit Testing
-├── Git
-├── GitHub
-├── Code Reviews
-├── Debugging
-├── Regression Fixes
-└── Application Analytics
-
-Currently Expanding
-├── Node.js
-├── Express.js
-├── REST APIs
-├── SQL
-├── Databases
-├── Authentication
-├── Backend Architecture
-└── System Design
+Full-Stack Development
+│
+├── Frontend
+│   ├── React
+│   ├── TypeScript
+│   ├── JavaScript
+│   ├── Component Architecture
+│   ├── State Management
+│   └── Responsive UI
+│
+├── Mobile
+│   ├── React Native
+│   ├── Cross-Platform Development
+│   ├── Mobile UI
+│   └── API Integration
+│
+├── Backend
+│   ├── Node.js
+│   ├── Express.js
+│   ├── REST APIs
+│   ├── Authentication
+│   └── Backend Architecture
+│
+├── Data
+│   ├── SQL
+│   ├── Data Modeling
+│   └── Database Integration
+│
+├── Cloud
+│   └── Microsoft Azure
+│
+└── Engineering
+    ├── Jest
+    ├── Git
+    ├── Testing
+    ├── Debugging
+    └── System Design
